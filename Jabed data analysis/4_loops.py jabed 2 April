@@ -1,0 +1,8 @@
+#math
+print(10+3)
+print(10-3)
+print(10*3)
+print(10/3) #?? 3.333
+print(10%3) #? =>1
+print(10//3) #floor division => 3
+print(10**3) #exp 10^3
